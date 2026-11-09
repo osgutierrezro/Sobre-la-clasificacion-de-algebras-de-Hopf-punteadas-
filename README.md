@@ -1,1 +1,1 @@
-# Sobre la clasificacion de algebras de hopf punteadas
+# On the Classification of Pointed Hopf algebras
